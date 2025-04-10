@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Otygold
-- 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on others that are professionals in the field.
+- 👀 I’m a full-stack web developer.
+- 🌱 I’m currently learning Ruby Programming Language.
+- 💞️ I’ll love to collaborate with other professionals.
 - 📫 You can reach me on whatshapp with this number; +2348100220704 or twitter @Otygold.
 
 <!---
